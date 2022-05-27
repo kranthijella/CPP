@@ -1,5 +1,5 @@
 #include<iostream>
-using namespace std;
+using namespace std ;
 
 class A{
   const int a = 10;
